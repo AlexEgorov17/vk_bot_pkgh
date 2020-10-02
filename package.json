@@ -1,0 +1,20 @@
+{
+  "name": "pkgh_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Alex Egorov",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cherio": "^1.0.0-rc.2",
+    "get-data-pkgh": "0.0.241",
+    "node-vk-bot-api": "^3.3.7",
+    "pg": "^8.3.3",
+    "puppeteer": "^5.2.1",
+    "typeorm": "^0.2.28"
+  }
+}
